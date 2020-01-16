@@ -1,4 +1,4 @@
-Feature: User want to quick log in to the app using Touch ID or FACE id if it is Iphone X series
+Feature: Test spicejet website
 
 
 
