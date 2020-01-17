@@ -1,4 +1,4 @@
-Feature: Test spicejet website, to check Jenkins and GitHub commit intergration after one failure
+Feature: Test spicejet website, to check Jenkins and GitHub commit integrations
 
 
 
