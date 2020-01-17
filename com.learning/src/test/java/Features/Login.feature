@@ -1,4 +1,4 @@
-Feature: Test spicejet website, to check Jenkins and GitHub integration chnage again hhh kkk lll mmm kkll bkbhhoho
+Feature: Test spicejet website, to check Jenkins and GitHub integration, commit
 
   @Login
   Scenario: User opens spicejet website
