@@ -1,4 +1,4 @@
-Feature: Test spicejet website, and code commit
+Feature: Test spicejet website, to check Jenkins and GitHub commit intergration
 
 
 
