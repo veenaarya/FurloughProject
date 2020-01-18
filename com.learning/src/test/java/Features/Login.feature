@@ -1,4 +1,4 @@
-Feature: Test code commit triggers Build in jenkins automatically
+Feature: Test code commit triggers Build in jenkins automatically, try again
 
   @Login
   Scenario: User opens spicejet website
