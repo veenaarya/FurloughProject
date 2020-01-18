@@ -1,4 +1,4 @@
-Feature: Test spicejet website, to check Jenkins and GitHub integration, commit
+Feature: Test code commit triggers Build in jenkins automatically
 
   @Login
   Scenario: User opens spicejet website
